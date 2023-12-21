@@ -1,0 +1,15 @@
+#Fox-Picture > image > img {
+   height: 100px;
+   width: 100px;
+   object-fit: contain;
+   margin: 1000px;
+}
+body {
+  background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/10/Dora-boots-and-swiper-wallpaper.jpg");
+  background-size: cover;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  justify-content: center;
+  margin: 200px;
+  color: #000;
+}

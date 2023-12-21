@@ -1,0 +1,28 @@
+body {
+  background-image: url("https://marketplace.canva.com/EAFPgVhU9Tw/4/0/1131w/canva-cute-cat-illustration-stationery-a4-document-rFMtxP14iU4.jpg"); /* Replace with your cat background image */
+  background-size: cover;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 400px;
+  color: #000;
+}
+
+h1 {
+  color: #000;
+  font-family: cursive;
+}
+
+button {
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #007bff;
+  color: #000;
+  border: none;
+  border-radius: 5px;
+}
+
+#fact {
+  margin-top: 20px;
+  font-size: 18px;
+}

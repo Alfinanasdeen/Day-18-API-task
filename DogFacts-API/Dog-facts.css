@@ -1,0 +1,27 @@
+body {
+  background-image: url("https://img.freepik.com/free-vector/frame-with-dogs-vector-white-background_53876-127700.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1702684800&semt=ais"); 
+  background-size: cover;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 400px;
+  color: #000;
+}
+
+h1 {
+  color: #000;
+}
+
+button {
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #007bff;
+  color: #000;
+  border: none;
+  border-radius: 5px;
+}
+
+#fact {
+  margin-top: 20px;
+  font-size: 18px;
+}
